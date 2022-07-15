@@ -194,7 +194,11 @@ body{
     margin: 5px;
     width: 250px;
     height: 150px;
-    background-color: aqua;
+
+}
+
+.box img{
+    border-radius: 10px;
 }
 
 .section-dev{
